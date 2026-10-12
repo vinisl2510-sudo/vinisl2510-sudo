@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3178C6&height=200&section=header&text=Vin%C3%ADcius%20Soares%20Loureiro&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Vinícius Soares Loureiro — Desenvolvedor em Formação" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3178C6&height=200&section=header&text=Vin%C3%ADcius%20Soares%20Loureiro&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o&descSize=18&descAlignY=56" width="100%" alt="Vinícius Soares Loureiro — Desenvolvedor em Formação" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Java+%E2%80%A2+TypeScript+%E2%80%A2+SQL;Construindo+projetos+reais+do+zero;Em+busca+da+primeira+oportunidade+em+tech" alt="Java • TypeScript • SQL" />
 
