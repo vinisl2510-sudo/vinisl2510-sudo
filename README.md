@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FAP
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP
 - 🚀 Buscando minha **primeira oportunidade** no mundo da tecnologia
 - 🛠️ Aprendo construindo: projetos práticos, código limpo e boas práticas
 - 🌐 Português (fluente) · Inglês (avançado)
